@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>GET INVOLVED &#8211; Womenlinks </title>
+	<title>GET INVOLVED Archives - Womenlinks</title>
 	<atom:link href="http://localhost/womenlinks/archives/category/get-involved/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/archives/category/get-involved</link>
 	<description>This website connect, Engage, Educate and Empowers women.</description>
-	<lastBuildDate>Sat, 16 Jul 2022 19:39:29 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Jul 2022 20:25:59 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>/wp-content/uploads/2022/07/cropped-hands_colours-32x32.png</url>
-	<title>GET INVOLVED &#8211; Womenlinks </title>
-	<link></link>
+	<title>GET INVOLVED Archives - Womenlinks</title>
+	<link>/archives/category/get-involved</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

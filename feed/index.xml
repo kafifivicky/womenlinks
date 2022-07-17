@@ -10,9 +10,9 @@
 <channel>
 	<title>Womenlinks </title>
 	<atom:link href="http://localhost/womenlinks/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/</link>
 	<description>This website connect, Engage, Educate and Empowers women.</description>
-	<lastBuildDate>Sat, 16 Jul 2022 19:39:29 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Jul 2022 20:25:59 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2022/07/cropped-hands_colours-32x32.png</url>
 	<title>Womenlinks </title>
-	<link></link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
