@@ -1,6 +1,6 @@
 **[Part 1]**
 
-[[https://](https://kafifivicky.github.io/womenlinks)[www.womenlinks.org](http://www.womenlinks.org/)]{.ul}
+[[https://](https://kafifivicky.github.io/womenlinks)[www.womenlinks.org](http://www.womenlinks.org/)]
 
 **[Part 2]**
 
